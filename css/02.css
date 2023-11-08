@@ -1,0 +1,46 @@
+.Principal{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px;
+}
+.exemplo01{
+    height: 20px;
+    width:  100%;
+    margin-left: auto;
+
+}
+.exemplo02{
+    width: 850px;
+    height: 60px;
+    margin-left: auto;
+    background-color: rgb(233, 233, 233);
+    color: black;
+}
+.exemplo03{
+    width: 160px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: -60px;
+}
+.container-fluid{
+    margin-left: 13px;
+}
+.teste{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+.exemplo04{
+    width: 500px;
+    height: 600px;
+    margin-left: 576px;
+    margin-top: -120px;
+}
+.exemplo05{
+    width: 550px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 20px;
+    font-size: 20px;
+}

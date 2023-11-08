@@ -1,0 +1,55 @@
+.Principal{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px;
+}
+.exemplo01{
+    height: 20px;
+    width:  100%;
+    margin-left: auto;
+
+}
+.exemplo02{
+    width: 850px;
+    height: 60px;
+    margin-left: auto;
+    background-color: rgb(233, 233, 233);
+    color: black;
+}
+.exemplo03{
+    width: 160px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: -60px;
+}
+.container-fluid{
+    margin-left: 13px;
+}
+.teste{
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+.exemplo04{
+    width: 400px;
+    height: 300px;
+    margin-left: 715px;
+    margin-top: -115px;
+}
+.exemplo05{
+    width: 340px;
+    height: 340px;
+    margin-top: -190px;
+    margin-left: 315px;
+}
+.exemplo06{
+    width: 800px;
+    height: 250px;
+    margin-top: -50px;
+    margin-left: 25px;
+}
+.exemplo07{
+    font-family: cursive;
+    font-size: 20px;
+}

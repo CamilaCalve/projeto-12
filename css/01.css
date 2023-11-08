@@ -1,0 +1,60 @@
+.Principal{
+    width: 1000px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px;
+}
+.exemplo01{
+    height: 20px;
+    width:  100%;
+    margin-left: auto;
+
+}
+.exemplo02{
+    width: 850px;
+    height: 60px;
+    margin-left: auto;
+    background-color: rgb(233, 233, 233);
+    color: rgb(0, 0, 0);
+}
+.exemplo03{
+    width: 160px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: -60px;
+}
+.exemplo04{
+    width: 420px;
+    height: 68px;
+    margin-left: 500px;
+    margin-top: -30px;
+    position: relative;
+}
+.exemplo05{
+    width: 1000px;
+    height: 300px;
+    margin-top: 50px;
+    background-color: brown;
+}
+.exemplo06{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin-left: 750px;
+    margin-top: -60px;
+}
+.exemplo07{
+    width: 400px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: -60px;
+
+}
+.container-fluid{
+    margin-left: 13px;
+}
+.teste{
+    color: black;
+    font-family: cursive;
+}
